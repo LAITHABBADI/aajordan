@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>جدول اجتماعات زمالة المدمنين المجهولين | اجتماعات زمالة المدمنين المجهولين أون لاين</title>
+    <meta name="description" content="جدول اجتماعات زمالة المدمنين المجهولين أون لاين - اجتماعات زمالة المدمنين المجهولين اونلاين - مواعيد اجتماعات 2:00 صباحاً، 4:00 صباحاً، 10:00 صباحاً بتوقيت مصر - اجتماعات يومية مجانية للتعافي من الإدمان">
+    <meta name="keywords" content="جدول اجتماعات زمالة المدمنين المجهولين, اجتماعات زمالة المدمنين المجهولين أون لاين, اجتماعات زمالة المدمنين المجهولين اونلاين, مواعيد اجتماعات NA, اجتماعات NA أونلاين">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-gray-50">
+    <header class="bg-blue-600">
+        <div class="container mx-auto py-4 px-4">
+            <div class="flex justify-between items-center">
+                <a href="meetings-en.html" class="text-white hover:text-blue-200">English</a>
+                <img src="/api/placeholder/80/80" alt="شعار NA" class="h-20">
+                <div class="w-20"></div>
+            </div>
+            <nav class="mt-4">
+                <ul class="flex flex-wrap justify-center space-x-8 text-white">
+                    <li><a href="#" class="hover:text-blue-200">الرئيسية</a></li>
+                    <li><a href="#" class="hover:text-blue-200">الإجتماعات</a></li>
+                    <li><a href="#" class="hover:text-blue-200">الأدبيات</a></li>
+                    <li><a href="#" class="hover:text-blue-200">اتصل بنا</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <section class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h1 class="text-4xl font-bold mb-6 text-center">جدول اجتماعات زمالة المدمنين المجهولين أونلاين</h1>
+
+            <!-- Schedule Cards -->
+            <div class="space-y-6 mb-8">
+                <!-- Journey Group Morning -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة الرحلة</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>2:00 صباحاً و 4:00 صباحاً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us06web.zoom.us/j/6506016055" class="text-blue-600 hover:underline" target="_blank">https://us06web.zoom.us/j/6506016055</a></p>
+                        <p class="text-gray-600">كلمة المرور: 0000</p>
+                    </div>
+                </div>
+
+                <!-- Humility Group -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة التواضع</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>1:00 ظهراً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us02web.zoom.us/j/83702126800" class="text-blue-600 hover:underline" target="_blank">https://us02web.zoom.us/j/83702126800</a></p>
+                        <p class="text-gray-600">كلمة المرور: 987654</p>
+                    </div>
+                </div>
+
+                <!-- Unity Group -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة الوحدة</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>3:00 عصراً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us02web.zoom.us/j/84740410976" class="text-blue-600 hover:underline" target="_blank">https://us02web.zoom.us/j/84740410976</a></p>
+                    </div>
+                </div>
+
+                <!-- Awakening Group -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة الصحوة</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>5:00 مساءً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us06web.zoom.us/j/9123198870" class="text-blue-600 hover:underline" target="_blank">https://us06web.zoom.us/j/9123198870</a></p>
+                    </div>
+                </div>
+
+                <!-- Experience Exchange Group -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة تبادل الخبرات</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>7:00 مساءً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us06web.zoom.us/j/5526394620" class="text-blue-600 hover:underline" target="_blank">https://us06web.zoom.us/j/5526394620</a></p>
+                    </div>
+                </div>
+
+                <!-- Freedom Group -->
+                <div class="border rounded-lg p-6 hover:shadow-lg transition-shadow">
+                    <div class="flex flex-wrap gap-4 items-center mb-4">
+                        <div class="flex items-center">
+                            <i class="fas fa-users text-blue-600 ml-2"></i>
+                            <span class="font-bold">مجموعة الحرية</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-clock text-blue-600 ml-2"></i>
+                            <span>9:00 مساءً بتوقيت مصر</span>
+                        </div>
+                        <div class="flex items-center">
+                            <i class="fas fa-video text-blue-600 ml-2"></i>
+                            <span>اجتماع زووم</span>
+                        </div>
+                    </div>
+                    <div class="pr-8">
+                        <p class="text-gray-600 mt-2 break-all">رابط الاجتماع: <a href="https://us06web.zoom.us/j/7172833337" class="text-blue-600 hover:underline" target="_blank">https://us06web.zoom.us/j/7172833337</a></p>
+                        <p class="text-gray-600">كلمة المرور: 567891234</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Important Information -->
+            <div class="bg-blue-50 rounded-lg p-6 mb-8">
+                <h2 class="text-2xl font-bold mb-4">معلومات مهمة للمشاركة في الاجتماعات الأونلاين:</h2>
+                <ul class="list-disc list-inside space-y-3">
+                    <li>جميع الاجتماعات مجانية تماماً</li>
+                    <li>يرجى تحميل تطبيق زووم قبل موعد الاجتماع</li>
+                    <li>نرحب بالأعضاء الجدد في جميع الاجتماعات</li>
+                    <li>يفضل الدخول قبل ٥ دقائق من موعد الاجتماع</li>
+                    <li>نلتزم بالسرية التامة لجميع المشاركين</li>
+                    <li>يرجى استخدام سماعات الرأس للخصوصية</li>
+                </ul>
+            </div>
+
+            <!-- Meeting Types -->
+            <div class="grid md:grid-cols-2 gap-6 mb-8">
+                <div class="border rounded-lg p-4">
+                    <h4 class="font-bold text-lg mb-2">اجتماعات مغلقة</h4>
+                    <p>للمدمنين فقط، أو من يعتقد أن لديه مشكلة مع المخدرات</p>
+                </div>
+                <div class="border rounded-lg p-4">
+                    <h4 class="font-bold text-lg mb-2">اجتماعات مفتوحة</h4>
+                    <p>يمكن حضورها من قبل العائلة والأصدقاء والمهتمين</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="bg-blue-800 text-white py-8 mt-8">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-xl mb-4">للمزيد من المعلومات</p>
+            <p class="text-lg mb-4">الخط الساخن: ٠٧٨٧٧٨٧٨٨٩</p>
+            <p class="text-lg">نرحب بالجميع في اجتماعاتنا</p>
+            <p class="mt-4 text-sm">للدعم التقني والمساعدة في استخدام زووم: ٠٧٩٩٩٩٩٩٩٩</p>
+        </div>
+    </footer>
+</body>
+</html>
