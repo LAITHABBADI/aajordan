@@ -1,0 +1,65 @@
+# Global settings for all web crawlers
+User-agent: *
+# Allow crawling of all content by default
+Allow: /
+
+# Optimize crawl budget by disallowing unimportant pages
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /includes/
+Disallow: /cache/
+Disallow: /feed/
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+Disallow: /*?*s=
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /search/
+Disallow: /tag/
+Disallow: *?attachment_id=
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+
+# Prevent duplicate content issues
+Disallow: /*?replytocom=
+Disallow: /page/*?*
+Disallow: */comment-page-*
+
+# Allow critical assets for rendering
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/*/assets/
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Special instructions for Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Instructions for Google Images
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Instructions for Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# Site map location
+Sitemap: https://www.najordan.org/sitemap.xml
