@@ -11,6 +11,15 @@
         <priority>1.0</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/index-en.html"/>
     </url>
+       
+    <!-- Homepage (Arabic) -->
+    <url>
+        <loc>https://www.najordan.org/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/index-en.html"/>
+    </url>
     
     <!-- Homepage (English) -->
     <url>
