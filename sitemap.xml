@@ -5,83 +5,61 @@
     
     <!-- Homepage (Arabic) -->
     <url>
-        <loc>https://najordan.org/</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/index-en.html"/>
-    </url>
-       
-    <!-- Homepage (Arabic) -->
-    <url>
         <loc>https://www.najordan.org/</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/index-en.html"/>
     </url>
     
     <!-- Homepage (English) -->
     <url>
-        <loc>https://najordan.org/index-en.html</loc>
+        <loc>https://www.najordan.org/index-en.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://najordan.org/"/>
     </url>
 
+    <!-- Online Meetings -->
     <url>
         <loc>https://www.najordan.org/pages/onlinemeetings.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://najordan.org/"/>
     </url>
     
     <!-- Literature Page (Arabic) -->
     <url>
-        <loc>https://najordan.org/pages/literature.html</loc>
+        <loc>https://www.najordan.org/pages/literature.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/pages/literature-en.html"/>
     </url>
     
     <!-- Literature Page (English) -->
     <url>
-        <loc>https://najordan.org/pages/literature-en.html</loc>
+        <loc>https://www.najordan.org/pages/literature-en.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://najordan.org/pages/literature.html"/>
     </url>
     
     <!-- Meetings Page (Arabic) -->
     <url>
-        <loc>https://najordan.org/pages/meetings.html</loc>
+        <loc>https://www.najordan.org/pages/meetings.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/pages/meetings-en.html"/>
     </url>
     
     <!-- Meetings Page (English) -->
     <url>
-        <loc>https://najordan.org/pages/meetings-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://najordan.org/pages/meetings.html"/>
-    </url>
-    
-    <!-- Blog Page (Arabic) -->
-    <url>
-        <loc>https://najordan.org/pages/مدونة.html</loc>
+        <loc>https://www.najordan.org/pages/meetings-en.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
+    <!-- Blog Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/مدونة.html</loc>
         <lastmod>2025-01-18</lastmod>
@@ -91,87 +69,9 @@
 
     <!-- Addiction Blog Post (Arabic) -->
     <url>
-        <loc>https://najordan.org/pages/blogs/الإدمان.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-    </url>
-
-    <url>
         <loc>https://www.najordan.org/pages/blogs/الإدمان.html</loc>
         <lastmod>2025-01-18</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
-    </url>
-
-    <!-- Homepage (Arabic) -->
-    <url>
-        <loc>https://najordan.org/</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://najordan.org/index-en.html"/>
-    </url>
-    
-    <url>
-        <loc>https://www.najordan.org/</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.najordan.org/index-en.html"/>
-    </url>
-    
-    <!-- Homepage (English) -->
-    <url>
-        <loc>https://www.najordan.org/index-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://www.najordan.org/"/>
-    </url>
-
-    <!-- Online Meetings -->
-    <url>
-        <loc>https://www.najordan.org/pages/onlinemeetings.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://www.najordan.org/"/>
-    </url>
-    
-    <!-- Literature Page (Arabic) -->
-    <url>
-        <loc>https://www.najordan.org/pages/literature.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.najordan.org/pages/literature-en.html"/>
-    </url>
-    
-    <!-- Literature Page (English) -->
-    <url>
-        <loc>https://www.najordan.org/pages/literature-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://www.najordan.org/pages/literature.html"/>
-    </url>
-    
-    <!-- Meetings Page (Arabic) -->
-    <url>
-        <loc>https://www.najordan.org/pages/meetings.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.najordan.org/pages/meetings-en.html"/>
-    </url>
-    
-    <!-- Meetings Page (English) -->
-    <url>
-        <loc>https://www.najordan.org/pages/meetings-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="ar" href="https://www.najordan.org/pages/meetings.html"/>
     </url>
 </urlset>
