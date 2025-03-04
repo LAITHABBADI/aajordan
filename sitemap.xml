@@ -6,7 +6,7 @@
     <!-- Homepage (Arabic) -->
     <url>
         <loc>https://www.najordan.org/</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -14,7 +14,7 @@
     <!-- Homepage (English) -->
     <url>
         <loc>https://www.najordan.org/index-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -22,7 +22,7 @@
     <!-- Online Meetings -->
     <url>
         <loc>https://www.najordan.org/pages/onlinemeetings.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -30,7 +30,7 @@
     <!-- Literature Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/literature.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -38,7 +38,7 @@
     <!-- Literature Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/literature-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -46,7 +46,7 @@
     <!-- Meetings Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/meetings.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -54,7 +54,7 @@
     <!-- Meetings Page (English) -->
     <url>
         <loc>https://www.najordan.org/pages/meetings-en.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -62,7 +62,7 @@
     <!-- Blog Page (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/مدونة.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -70,7 +70,7 @@
     <!-- Addiction Blog Post (Arabic) -->
     <url>
         <loc>https://www.najordan.org/pages/blogs/الإدمان.html</loc>
-        <lastmod>2025-01-18</lastmod>
+        <lastmod>2025-03-04</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
