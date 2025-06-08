@@ -1,5 +1,5 @@
-NA Jordan - Narcotics Anonymous Website Template
-A bilingual (Arabic/English) website template for Narcotics Anonymous groups and addiction recovery organizations. This project is completely free and open source for anyone to use, modify, and distribute.
+AA Jordan - Alcoholics Anonymous Website Template
+A bilingual (Arabic/English) website template for Alcoholics Anonymous groups and addiction recovery organizations. This project is completely free and open source for anyone to use, modify, and distribute.
 🚀 Quick Start
 This website is ready to use out of the box! Simply:
 
@@ -12,7 +12,7 @@ Deploy to your preferred hosting platform
 
 Bilingual support - Full Arabic and English versions
 Meeting schedules - Both in-person and online meetings
-Literature library - Downloadable NA resources and pamphlets
+Literature library - Downloadable AA resources and pamphlets
 Blog system - Share recovery stories and information
 Mobile responsive - Works perfectly on all devices
 SEO optimized - Structured data and meta tags included
@@ -22,7 +22,7 @@ Accessibility focused - Clean, readable design
 🆓 Free for Everyone
 This project is completely free to use for:
 
-Narcotics Anonymous groups worldwide
+Alcoholics Anonymous groups worldwide
 Addiction recovery organizations
 Community support groups
 Treatment centers and clinics
@@ -80,7 +80,7 @@ This project is released under the MIT License - feel free to use it however you
 Contributions are welcome! Feel free to:
 
 Report bugs or issues
-Suggest new features for NA websites
+Suggest new features for AA websites
 Submit pull requests with improvements
 Share how you've adapted this template
 Help translate content to other languages
@@ -98,11 +98,11 @@ Create a Pull Request
 If this project helped your organization, please consider:
 
 Giving it a ⭐ on GitHub
-Sharing it with other NA groups or recovery organizations
+Sharing it with other AA groups or recovery organizations
 Contributing improvements back to the community
 Sponsoring the project to support ongoing development
 
 Want to share how you're using this template? Open an issue and tell us about it!
 
 Made with ❤️ for the recovery community | Available for professional customization services
-"The therapeutic value of one addict helping another is without parallel." - NA Basic Text
+"The therapeutic value of one addict helping another is without parallel." - AA Basic Text
