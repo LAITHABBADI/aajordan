@@ -62,4 +62,4 @@ Allow: /
 Crawl-delay: 2
 
 # Site map location
-Sitemap: https://www.najordan.org/sitemap.xml
+Sitemap: https://www.aajordan.org/sitemap.xml
