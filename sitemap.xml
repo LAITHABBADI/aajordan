@@ -1,53 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Sitemap for najordan.org -->
+<!-- Sitemap for aajordan.org -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
     <!-- Homepage (Arabic) -->
     <url>
         <loc>https://www.aajordan.org/</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     
     <!-- Homepage (English) -->
     <url>
         <loc>https://www.aajordan.org/index-en.html</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
 
     <!-- Meetings Page (Arabic) -->
     <url>
         <loc>https://www.aajordan.org/pages/meetings.html</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
     </url>
     
     <!-- Meetings Page (English) -->
     <url>
         <loc>https://www.aajordan.org/pages/meetings-en.html</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Online Meetings Page (Arabic) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/onlinemeetings.html</loc>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Online Meetings Page (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/onlinemeetings-en.html</loc>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- Literature Page (Arabic) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/literature.html</loc>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Literature Page (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/literature-en.html</loc>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
     </url>
 
     <!-- Blog Page (Arabic) -->
     <url>
         <loc>https://www.aajordan.org/pages/مدونة.html</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
     </url>
 
     <!-- Addiction Blog Post (Arabic) -->
     <url>
         <loc>https://www.aajordan.org/pages/blogs/الإدمان.html</loc>
-        <lastmod>2025-03-04</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- LLMs.txt for AI assistants -->
+    <url>
+        <loc>https://www.aajordan.org/llms.txt</loc>
+        <lastmod>2025-01-21</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
     </url>
 </urlset>
