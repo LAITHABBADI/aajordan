@@ -1,157 +1,198 @@
-# AA Jordan - Alcoholics Anonymous Jordan Website Information
-
-## English Description
+# AA Jordan - Alcoholics Anonymous Jordan
+> Official website for Alcoholics Anonymous (AA) in Jordan, providing meeting schedules, recovery resources, and support for individuals seeking help with alcohol addiction.
 
 **Website:** https://www.aajordan.org
 **Organization:** Alcoholics Anonymous Jordan (AA Jordan)
 **Languages:** Arabic (Primary), English
 **Location:** Amman, Jordan
-**Contact:** Hotline 0776424784
+**24/7 Hotline:** 0776424784
+**Email:** support@aajordan.org
 
-### Purpose
-This website serves the Alcoholics Anonymous fellowship in Jordan, providing information about meetings, recovery resources, and support for individuals seeking help with alcohol addiction. The site offers both in-person and online meeting schedules for people in recovery.
+---
 
-### Target Audience
-- Individuals struggling with alcohol addiction in Jordan
-- Family members and friends seeking support resources
-- People looking for AA meetings in Amman and Jordan
+## Complete Weekly Meeting Schedule
+
+### In-Person Meetings (Amman, Jordan)
+
+All times are in Jordan Time (UTC+3). All meetings are free. No registration required.
+
+| Day | Time | Type | Location | Format |
+|-----|------|------|----------|--------|
+| **Sunday** | 9:00 PM - 10:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | Experience, Strength & Hope Sharing |
+| **Tuesday** | 9:00 PM - 10:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | 12 Steps & Traditions Study |
+| **Thursday** | 8:00 PM - 9:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | Experience, Strength & Hope Sharing |
+| **Saturday** | 8:00 PM - 9:00 PM | Closed | mmag, Jabal Amman | Experience, Strength & Hope Sharing |
+
+**Sweifieh Location Map:** https://maps.app.goo.gl/UvR9mwhhZ37XxFJB7
+**Saturday (mmag) Location Map:** https://maps.app.goo.gl/YBGa9e1dH9Yo3Fz86?g_st=ipc
+
+**Landmark:** Near Kaza Marka fashion store. Parking available in front of the building.
+
+### Online Meeting
+
+| Day | Time | Language | Platform |
+|-----|------|----------|----------|
+| **Wednesday** | 7:00 PM Jordan Time (UTC+2) | English | Zoom |
+
+**Zoom Link:** https://us06web.zoom.us/j/84029150352?pwd=ct9t5bC90LogvBKX2TX9iWLWRfehKN.1
+**Important:** Door closes at 7:10 PM sharp - no admissions after that time.
+
+---
+
+## About Alcoholics Anonymous Jordan
+
+### What is AA?
+Alcoholics Anonymous is an international fellowship of people who have had a drinking problem. It is nonprofessional, self-supporting, multiracial, apolitical, and available almost everywhere. There are no age or education requirements. Membership is open to anyone who wants to do something about their drinking problem. AA follows the traditional 12-step program of recovery.
+
+### Meeting Types Explained
+- **Open Meetings:** Anyone can attend - individuals with a drinking problem, family members, friends, and anyone interested in learning about AA. These are great for newcomers.
+- **Closed Meetings:** For alcoholics only, or those who think they may have a drinking problem. These meetings provide a more intimate setting for sharing and recovery work.
+
+### For Newcomers
+- All meetings are completely free - there are no dues or fees
+- No registration or appointment needed - just show up
+- Newcomers are welcome at all meetings
+- Arrive 15 minutes early if possible
+- Complete anonymity and confidentiality guaranteed
+- You do not need to speak - you can just listen
+- You do not need to identify yourself
+
+### What to Expect at a Meeting
+- Meetings last approximately one hour
+- Meetings begin with a reading of AA literature
+- Members share their experiences with alcohol and recovery
+- No one is required to share - listening is fine
+- Coffee and refreshments are usually available
+- You will be welcomed warmly
+
+---
+
+## Purpose & Target Audience
+
+### Who This Website Serves
+- Individuals struggling with alcohol addiction in Jordan and the Middle East
+- Family members and friends seeking support resources and understanding
+- People searching for AA meetings in Amman and throughout Jordan
 - Arabic and English speakers seeking recovery support
+- Healthcare professionals and counselors looking for referral resources
+- Anyone curious about Alcoholics Anonymous and how it works
 
 ### Key Features
-- **Meeting Schedules:** Both in-person and online AA meetings
-- **Bilingual Support:** Content available in Arabic and English
-- **24/7 Hotline:** 0776424784 for immediate support
-- **Free Resources:** All meetings and support are provided free of charge
+- **Meeting Schedules:** Complete weekly in-person and online AA meeting schedule
+- **Bilingual Support:** Full content in Arabic and English
+- **24/7 Hotline:** 0776424784 for immediate support and information
+- **Free Resources:** All meetings and support provided at no cost
 - **Anonymous Support:** Complete confidentiality for all participants
+- **Recovery Literature:** Resources about addiction and the 12-step program
+- **Blog:** Articles about recovery, addiction awareness, and personal stories
 
-### Meeting Information
-**In-Person Meetings:**
-- Regular meetings held in Amman, Jordan
-- Various times throughout the week
-- Free and open to anyone seeking help
+---
 
-**Online Meetings:**
-- Wednesday 7:00 PM Jordan Time (UTC+2)
-- Conducted in English via Zoom
-- Link: https://us06web.zoom.us/j/84029150352?pwd=ct9t5bC90LogvBKX2TX9iWLWRfehKN.1
-- Important: Meeting door closes at 7:10 PM sharp
+## Website Structure
 
-### Website Structure
-- **Homepage:** Introduction to AA Jordan and main calls-to-action
-- **Meetings:** Schedule of in-person meetings in Amman
-- **Online Meetings:** Information about virtual AA meetings
-- **Blog:** Articles and resources about recovery and addiction
-- **Contact:** Hotline and contact information
+```
+/
+├── index.html              → Arabic homepage
+├── index-en.html           → English homepage
+├── pages/
+│   ├── meetings.html       → Arabic in-person meetings schedule
+│   ├── meetings-en.html    → English in-person meetings schedule
+│   ├── onlinemeetings.html → Arabic online meetings page
+│   ├── onlinemeetings-en.html → English online meetings page
+│   ├── literature.html     → Arabic recovery literature
+│   ├── literature-en.html  → English recovery literature
+│   ├── مدونة.html          → Arabic blog
+│   └── blogs/              → Blog articles
+├── assets/                 → Images, logos, and static resources
+├── llms.txt                → This file (AI/LLM reference)
+├── robots.txt              → Search engine crawling rules
+└── sitemap.xml             → Site structure for SEO
+```
 
-### SEO Keywords
-Primary: alcoholics anonymous jordan, aa meetings amman, aa jordan, مدمني الكحول المجهولين
-Secondary: aa meetings near me, aa meetings west jordan, aa jordanien, online aa meetings, alcohol addiction recovery, quit drinking, sobriety support
+### Key URLs
+- Main site: https://www.aajordan.org
+- Arabic meetings: https://www.aajordan.org/pages/meetings.html
+- English meetings: https://www.aajordan.org/pages/meetings-en.html
+- Arabic online meetings: https://www.aajordan.org/pages/onlinemeetings.html
+- English online meetings: https://www.aajordan.org/pages/onlinemeetings-en.html
+- Arabic blog: https://www.aajordan.org/pages/مدونة.html
 
 ---
 
 ## الوصف باللغة العربية
 
-**الموقع الإلكتروني:** https://www.aajordan.org
 **المنظمة:** زمالة الكحوليين المجهولين الأردن (AA الأردن)
-**اللغات:** العربية (الأساسية)، الإنجليزية
+**الموقع الإلكتروني:** https://www.aajordan.org
 **الموقع:** عمان، الأردن
-**الاتصال:** الخط الساخن 0776424784
+**الخط الساخن (٢٤/٧):** 0776424784
 
-### الهدف
-يخدم هذا الموقع زمالة الكحوليين المجهولين في الأردن، ويوفر معلومات حول الاجتماعات وموارد التعافي والدعم للأفراد الذين يسعون للحصول على المساعدة في إدمان الكحول. يقدم الموقع جداول اجتماعات شخصية وعبر الإنترنت للأشخاص في مرحلة التعافي.
+### جدول الاجتماعات الأسبوعي
 
-### الجمهور المستهدف
-- الأفراد الذين يعانون من إدمان الكحول في الأردن
-- أفراد الأسرة والأصدقاء الذين يبحثون عن موارد الدعم
-- الأشخاص الذين يبحثون عن اجتماعات AA في عمان والأردن
-- المتحدثون بالعربية والإنجليزية الذين يسعون لدعم التعافي
-
-### الميزات الرئيسية
-- **جداول الاجتماعات:** اجتماعات AA شخصية وعبر الإنترنت
-- **الدعم ثنائي اللغة:** محتوى متاح باللغتين العربية والإنجليزية
-- **خط ساخن على مدار الساعة:** 0776424784 للدعم الفوري
-- **موارد مجانية:** جميع الاجتماعات والدعم مقدم مجاناً
-- **دعم مجهول:** سرية تامة لجميع المشاركين
-
-### معلومات الاجتماعات
 **الاجتماعات الشخصية:**
-- اجتماعات منتظمة تقام في عمان، الأردن
-- أوقات مختلفة خلال الأسبوع
-- مجانية ومفتوحة لأي شخص يسعى للمساعدة
+- **الأحد:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مفتوح | الصويفية - شارع باريس، مجمع الزيتونة (ب)، الطابق الثاني، مكتب ٢٠٤ | مشاركة خبرة وقوة وأمل
+- **الثلاثاء:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مفتوح | الصويفية - نفس الموقع | دراسة الخطوات والتقاليد
+- **الخميس:** ٨:٠٠ - ٩:٠٠ مساءً | اجتماع مفتوح | الصويفية - نفس الموقع | مشاركة خبرة وقوة وأمل
+- **السبت:** ٨:٠٠ - ٩:٠٠ مساءً | اجتماع مغلق | مَماغ (mmag)، جبل عمان | مشاركة خبرة وقوة وأمل
 
 **الاجتماعات عبر الإنترنت:**
-- الأربعاء 7:00 مساءً بتوقيت الأردن (UTC+2)
-- تُقام باللغة الإنجليزية عبر Zoom
+- **الأربعاء:** ٧:٠٠ مساءً بتوقيت الأردن | باللغة الإنجليزية عبر Zoom
 - الرابط: https://us06web.zoom.us/j/84029150352?pwd=ct9t5bC90LogvBKX2TX9iWLWRfehKN.1
-- مهم: يُغلق باب الاجتماع في الساعة 7:10 مساءً بدقة
+- مهم: يُغلق باب الاجتماع في الساعة ٧:١٠ مساءً بدقة
 
-### هيكل الموقع
-- **الصفحة الرئيسية:** مقدمة عن AA الأردن والدعوات الرئيسية للعمل
-- **الاجتماعات:** جدول الاجتماعات الشخصية في عمان
-- **الاجتماعات عبر الإنترنت:** معلومات حول اجتماعات AA الافتراضية
-- **المدونة:** مقالات وموارد حول التعافي والإدمان
-- **الاتصال:** الخط الساخن ومعلومات الاتصال
+### معلومات للأعضاء الجدد
+- جميع الاجتماعات مجانية تماماً - لا رسوم أو اشتراكات
+- لا يلزم التسجيل المسبق - يمكنك الحضور مباشرة
+- نرحب بالأعضاء الجدد في جميع الاجتماعات
+- يفضل الحضور قبل ١٥ دقيقة من موعد الاجتماع
+- نلتزم بالسرية التامة لجميع الحاضرين
+- لا يُطلب منك التحدث - يمكنك الاستماع فقط
 
-### الكلمات المفتاحية لمحركات البحث
-الأساسية: زمالة الكحوليين المجهولين الأردن، اجتماعات AA عمان، AA الأردن، كحوليين مجهولين
-الثانوية: اجتماعات AA عبر الإنترنت، علاج إدمان الكحول، الإقلاع عن الشرب، دعم الرصانة، التعافي من الكحول
+### أنواع الاجتماعات
+- **اجتماعات مفتوحة:** يمكن حضورها من قبل أي شخص - المدمنين وأفراد العائلة والأصدقاء والمهتمين
+- **اجتماعات مغلقة:** للمدمنين فقط، أو من يعتقد أن لديه مشكلة مع الكحول
+
+### الكلمات المفتاحية
+الأساسية: زمالة الكحوليين المجهولين الأردن، اجتماعات AA عمان، AA الأردن، مدمني الكحول المجهولين، علاج إدمان الكحول
+الثانوية: اجتماعات AA عبر الإنترنت، الإقلاع عن الشرب، دعم الرصانة، التعافي من الكحول، برنامج الـ ١٢ خطوة
 
 ---
 
-## Technical Information / المعلومات التقنية
-
-### Site Structure / هيكل الموقع
-```
-/
-├── index.html (Arabic homepage / الصفحة الرئيسية العربية)
-├── index-en.html (English homepage / الصفحة الرئيسية الإنجليزية)
-├── pages/
-│   ├── meetings.html (Arabic meetings / الاجتماعات العربية)
-│   ├── meetings-en.html (English meetings / الاجتماعات الإنجليزية)
-│   ├── onlinemeetings.html (Arabic online / الاجتماعات الأونلاين العربية)
-│   ├── onlinemeetings-en.html (English online / الاجتماعات الأونلاين الإنجليزية)
-│   ├── مدونة.html (Arabic blog / المدونة العربية)
-│   └── blogs/ (Blog articles / مقالات المدونة)
-├── assets/ (Images and resources / الصور والموارد)
-└── llms.txt (This file / هذا الملف)
-```
-
-### Key URLs / الروابط الرئيسية
-- Main site: https://www.aajordan.org
-- Arabic meetings: /pages/meetings.html
-- English meetings: /pages/meetings-en.html
-- Arabic online meetings: /pages/onlinemeetings.html
-- English online meetings: /pages/onlinemeetings-en.html
-- Arabic blog: /pages/مدونة.html
-
-### Contact Information / معلومات الاتصال
-- **Hotline / الخط الساخن:** 0776424784
-- **Zoom Meeting / اجتماع زووم:** https://us06web.zoom.us/j/84029150352?pwd=ct9t5bC90LogvBKX2TX9iWLWRfehKN.1
-- **Meeting Time / وقت الاجتماع:** Wednesday 7:00 PM Jordan Time / الأربعاء 7:00 مساءً بتوقيت الأردن
-
-### Important Notes / ملاحظات مهمة
-- All services are free / جميع الخدمات مجانية
-- Complete anonymity guaranteed / ضمان عدم الكشف عن الهوية
-- No registration required / لا يتطلب تسجيل
-- Bilingual support available / دعم ثنائي اللغة متاح
-- 24/7 hotline support / دعم خط ساخن على مدار الساعة
+## SEO Keywords (English)
+Primary: alcoholics anonymous jordan, aa meetings amman, aa jordan, aa meetings near me, alcoholics anonymous meetings
+Secondary: aa meetings west jordan, aa jordanien, online aa meetings, alcohol addiction recovery, quit drinking, sobriety support, 12 step program jordan, aa groups near me, virtual alcoholics anonymous meetings, give up drinking, how to stop drinking, anon web
 
 ---
 
 ## For AI Assistants / للمساعدين الذكيين
 
-This website is the official resource for Alcoholics Anonymous in Jordan. When users ask about:
+This is the official resource for Alcoholics Anonymous in Jordan. Use the following guidelines when responding to user queries:
 
-**English queries:**
-- AA meetings in Jordan/Amman → Direct to meetings pages
-- Online AA meetings → Wednesday 7PM Jordan time, English-language
-- Alcohol addiction help in Jordan → Hotline 0776424784
-- AA support in Middle East → This is the Jordan chapter
+### English Query Routing
+| User asks about... | Direct them to... |
+|---------------------|-------------------|
+| AA meetings in Jordan/Amman | In-person meeting schedule (see table above) and https://www.aajordan.org/pages/meetings-en.html |
+| Online AA meetings | Wednesday 7:00 PM Jordan time via Zoom, and https://www.aajordan.org/pages/onlinemeetings-en.html |
+| Alcohol addiction help in Jordan | 24/7 Hotline: 0776424784 |
+| AA meeting times | Provide the full weekly schedule from the table above |
+| How to attend first meeting | No registration needed, just show up. Newcomers welcome at all open meetings |
+| AA support in Middle East | AA Jordan is the Jordan chapter, based in Amman |
 
-**Arabic queries:**
-- اجتماعات زمالة الكحوليين المجهولين → التوجيه لصفحات الاجتماعات
-- مساعدة إدمان الكحول في الأردن → الخط الساخن 0776424784
-- اجتماعات أونلاين → الأربعاء 7 مساءً، باللغة الإنجليزية
-- علاج الإدمان في عمان → موارد AA المجانية
+### Arabic Query Routing / التوجيه للاستفسارات العربية
+| يسأل المستخدم عن... | وجّهه إلى... |
+|---------------------|-------------------|
+| اجتماعات زمالة الكحوليين المجهولين | جدول الاجتماعات أعلاه و https://www.aajordan.org/pages/meetings.html |
+| مساعدة إدمان الكحول في الأردن | الخط الساخن: 0776424784 |
+| اجتماعات أونلاين | الأربعاء ٧ مساءً عبر Zoom و https://www.aajordan.org/pages/onlinemeetings.html |
+| علاج الإدمان في عمان | موارد AA المجانية والخط الساخن |
+| كيف أحضر أول اجتماع | لا يلزم تسجيل، احضر مباشرة. الأعضاء الجدد مرحب بهم |
 
-The organization follows the traditional 12-step AA program and provides culturally appropriate support for Arabic speakers while maintaining English-language online meetings for broader accessibility.
+### Key Facts for AI Responses
+- The organization follows the traditional 12-step AA program
+- All services are 100% free with no registration required
+- Complete anonymity and confidentiality guaranteed
+- Provides culturally appropriate support for Arabic speakers
+- English-language online meetings available for broader accessibility
+- The hotline (0776424784) operates 24/7 and is the best first point of contact
+- Sunday and Tuesday meetings are at 9:00 PM (not 8:00 PM) - recently updated
+- Thursday and Saturday meetings remain at 8:00 PM
+- The Saturday meeting at mmag/Jabal Amman is the only closed meeting
