@@ -20,8 +20,8 @@ All times are in Jordan Time (UTC+3). All meetings are free. No registration req
 |-----|------|------|----------|--------|
 | **Sunday** | 9:00 PM - 10:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | Experience, Strength & Hope Sharing |
 | **Tuesday** | 9:00 PM - 10:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | 12 Steps & Traditions Study |
-| **Thursday** | 8:00 PM - 9:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | Experience, Strength & Hope Sharing |
-| **Saturday** | 8:00 PM - 9:00 PM | Closed | mmag, Jabal Amman | Experience, Strength & Hope Sharing |
+| **Thursday** | 9:00 PM - 10:00 PM | Open | Sweifieh - Paris Street, Alzaitoneh Complex (B), 2nd Floor, Office #204 | Experience, Strength & Hope Sharing |
+| **Saturday** | 9:00 PM - 10:00 PM | Closed | mmag, Jabal Amman | Experience, Strength & Hope Sharing |
 
 **Sweifieh Location Map:** https://maps.app.goo.gl/UvR9mwhhZ37XxFJB7
 **Saturday (mmag) Location Map:** https://maps.app.goo.gl/YBGa9e1dH9Yo3Fz86?g_st=ipc
@@ -131,8 +131,8 @@ Alcoholics Anonymous is an international fellowship of people who have had a dri
 **الاجتماعات الشخصية:**
 - **الأحد:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مفتوح | الصويفية - شارع باريس، مجمع الزيتونة (ب)، الطابق الثاني، مكتب ٢٠٤ | مشاركة خبرة وقوة وأمل
 - **الثلاثاء:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مفتوح | الصويفية - نفس الموقع | دراسة الخطوات والتقاليد
-- **الخميس:** ٨:٠٠ - ٩:٠٠ مساءً | اجتماع مفتوح | الصويفية - نفس الموقع | مشاركة خبرة وقوة وأمل
-- **السبت:** ٨:٠٠ - ٩:٠٠ مساءً | اجتماع مغلق | مَماغ (mmag)، جبل عمان | مشاركة خبرة وقوة وأمل
+- **الخميس:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مفتوح | الصويفية - نفس الموقع | مشاركة خبرة وقوة وأمل
+- **السبت:** ٩:٠٠ - ١٠:٠٠ مساءً | اجتماع مغلق | مَماغ (mmag)، جبل عمان | مشاركة خبرة وقوة وأمل
 
 **الاجتماعات عبر الإنترنت:**
 - **الأربعاء:** ٧:٠٠ مساءً بتوقيت الأردن | باللغة الإنجليزية عبر Zoom
@@ -194,5 +194,5 @@ This is the official resource for Alcoholics Anonymous in Jordan. Use the follow
 - English-language online meetings available for broader accessibility
 - The hotline (0776424784) operates 24/7 and is the best first point of contact
 - Sunday and Tuesday meetings are at 9:00 PM (not 8:00 PM) - recently updated
-- Thursday and Saturday meetings remain at 8:00 PM
+- Thursday and Saturday meetings are at 9:00 PM - recently updated
 - The Saturday meeting at mmag/Jabal Amman is the only closed meeting
