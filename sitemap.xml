@@ -14,7 +14,7 @@
     <!-- Homepage (English) -->
     <url>
         <loc>https://www.aajordan.org/index-en.html</loc>
-        <lastmod>2026-04-15</lastmod>
+        <lastmod>2026-05-20</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
@@ -81,5 +81,45 @@
         <lastmod>2026-04-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
+    </url>
+
+    <!-- AA Meetings in Amman (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/meetings-amman-en.html</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- AA Meetings in Irbid (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/meetings-irbid-en.html</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- AA Meetings in Zarqa (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/meetings-zarqa-en.html</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- AA Meetings in Aqaba (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/meetings-aqaba-en.html</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- What is AA in Jordan? (English) -->
+    <url>
+        <loc>https://www.aajordan.org/pages/about-aa-en.html</loc>
+        <lastmod>2026-05-20</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
     </url>
 </urlset>
